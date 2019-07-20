@@ -8,9 +8,9 @@ contoh : http://feeker.ngapayah.com
 Contoh Lain : http://kaboom.ndcworship.com
 nb : jangan pakai https:// oke usahakan http://
 
-Setup Just-Fake: $ git clone https://github.com/DrySP08/just_fake/ $ cd just_fake $ chmod 777 setup.sh $. /setup.sh
+Setup just_fake: $ git clone https://github.com/DrySP08/just_fake/ $ cd just_fake $ chmod 777 setup.sh $. /setup.sh
 
-Jalankan Just-Fake: $. / fake.sh pada pilihan opsi nomor 1 (Hasilkan Subdomain) Masukkan domain Anda. 
+Jalankan just_fake: $. / fake.sh pada pilihan opsi nomor 1 (Hasilkan Subdomain) Masukkan domain Anda. 
 Masukkan yang anda perlukan : Output http://sesukaanda.sesukaanda.com contoh : http://feeker.ngapayah.com Contoh Lain : http://kaboom.ndcworship.com
 nb : jangan pakai https:// oke usahakan http://, cukup ketik contoh : "test.txt" atau terserah dan hasilkan subdo.
 Buka sesi baru Pilih opsi nomor 2 (Mass Kirim) Masukkan nick, tim, dan file file Anda adalah (test.txt) Dan Kirim !! 
