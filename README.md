@@ -1,4 +1,4 @@
-# Just_Fake
+# just_fake
 Muncul hanya saat di butuhkan saja ! - ingat ini
 
 Just Fake adalah alat spammer defacer.id yang hadir saat ini, pengganti setelah yang biasa digunakan telah sirna, saat ini merupakan sebuah back-up baru atau lembar baru dari yang sudah sudah.
