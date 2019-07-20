@@ -8,7 +8,7 @@ contoh : http://feeker.ngapayah.com
 Contoh Lain : http://kaboom.ndcworship.com
 nb : jangan pakai https:// oke usahakan http://
 
-Setup Just-Fake: $ git clone https://github.com/DrySP08/just_fake/ $ cd just-fake $ chmod 777 setup.sh $. / Setup.sh
+Setup Just-Fake: $ git clone https://github.com/DrySP08/just_fake/ $ cd just_fake $ chmod 777 setup.sh $. / Setup.sh
 
 Jalankan Just-Fake: $. / Fake.sh pada pilihan opsi nomor 1 (Hasilkan Subdomain) Masukkan domain Anda. 
 Masukkan yang anda perlukan : Output http://sesuka.sesukaanda.com contoh : http://feeker.ngapayah.com Contoh Lain : http://kaboom.ndcworship.com
