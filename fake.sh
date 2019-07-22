@@ -138,7 +138,8 @@ echo '                                   -IND Cyber Army';
 echo ' ---------------- Coded By Dry_SP08 --------------';
 echo '';
 echo 'Pesan : Dilarang Menggunakan Tools Ini! 
-        Kalau Lu Baperan! Jangan Bawa Nama Team Sembarangan! 
+        Kalau Lu Baperan! 
+	Jangan Bawa Nama Team Sembarangan! 
 	Ijin Dulu Ke LEAD LU! 
 	Gunakan Hanya Saat Di Butuhkan Saja! ';
 echo '';
