@@ -132,12 +132,14 @@ echo '   _____     _            _____           _       ';
 echo '  |  ___|_ _| | _____    |_   _|__   ___ | | ___  ';
 echo '  | |_ / _` | |/ / _ \     | |/ _ \ / _ \| |/ __| ';
 echo '  |  _| (_| |   <  __/_____| | (_) | (_) | |\__ \ ';
-echo '  |_|  \__,_|_|\_\___|_____|_|\___/ \___/|_||___/ ': 
-echo '						v.Return';
+echo '  |_|  \__,_|_|\_\___|_____|_|\___/ \___/|_||___/ '; 
+echo '					v.Return        ';
 echo '                                   -IND Cyber Army';
 echo ' ---------------- Coded By Dry_SP08 --------------';
 echo '';
-echo 'Pesan : Dilarang Menggunakan Tools Ini! Kalau Lu Baperan! Jangan Bawa Nama Team Sembarangan! Ijin Dulu Ke LEAD LU! Gunakan Hanya Saat Di Butuhkan Saja! ';
+echo 'Pesan : Dilarang Menggunakan Tools Ini! 
+              Kalau Lu Baperan! Jangan Bawa Nama Team Sembarangan! 
+	      Ijin Dulu Ke LEAD LU! Gunakan Hanya Saat Di Butuhkan Saja! ';
 echo '';
 echo 'Pilih Opsi:';
 echo '[1] Generate Subdomain';
